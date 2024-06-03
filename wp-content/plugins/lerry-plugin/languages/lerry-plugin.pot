@@ -1,0 +1,54 @@
+# Copyright (C) 2024 John Lerry
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Lerry Plugin 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/lerry-plugin\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-06-03T04:46:41+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: lerry-plugin\n"
+
+#. Plugin Name of the plugin
+#: D:\laragon\www\wp-internationalization\wp-content\plugins\lerry-plugin\lerry-plugin.php
+msgid "Lerry Plugin"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: D:\laragon\www\wp-internationalization\wp-content\plugins\lerry-plugin\lerry-plugin.php
+msgid "https://example.com/plugins/the-basics/"
+msgstr ""
+
+#. Description of the plugin
+#: D:\laragon\www\wp-internationalization\wp-content\plugins\lerry-plugin\lerry-plugin.php
+msgid "Back to top CTA"
+msgstr ""
+
+#. Author of the plugin
+#: D:\laragon\www\wp-internationalization\wp-content\plugins\lerry-plugin\lerry-plugin.php
+msgid "John Lerry"
+msgstr ""
+
+#. Author URI of the plugin
+#: D:\laragon\www\wp-internationalization\wp-content\plugins\lerry-plugin\lerry-plugin.php
+msgid "https://author.example.com/"
+msgstr ""
+
+#: lerry-plugin.php:21
+msgid "Back to top"
+msgstr "Volver al inicio (JS)"
+
+#: sample.php:36
+msgid "There is %d comment"
+msgid_plural "There are %d comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: enqueue/js/script.js:11
+msgid "back to top JS"
+msgstr "Volver al inicio (PHP)"

@@ -25,6 +25,8 @@ add_action( 'wp_footer', 'ttt_add_link' );
 
 function ttt_load_scripts() {
 	wp_enqueue_script( 'to-the-top-js', plugin_dir_url(__FILE__) . 'js/to-the-top.js', array( 'wp-i18n', 'jquery' ) );
+	wp_enqueue_style('css',plugin_dir_url( __FILE__ ).'css/style.css','1','all');     
+
 }
 add_action( 'wp_enqueue_scripts', 'ttt_load_scripts' );
 
